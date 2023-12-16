@@ -1,0 +1,2 @@
+# Weather App
+App de clima e tempo para determinada localização. App consome uma API de tempo e clima e retorna para o usuário o valor da temperatura, como o tempo se encontra, a velocidade do vento e a quantificação da umidade.S
